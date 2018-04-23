@@ -1,4 +1,5 @@
-     
+            Pomodoro timer
+            
 ##1. Technologies used
 1) spring-boot 1.5.8.RELEASE
 2)	spring-data-jpa
@@ -9,3 +10,13 @@
 7)	Ajax
 8)	HTML5
 
+
+###2. To Run this project locally.
+
+$ git clone https://github.com/manpreet2220/pomodorotimer
+
+$ mvn install
+
+##3. Access http://localhost:8080
+
+   
